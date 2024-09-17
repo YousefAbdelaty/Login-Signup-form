@@ -1,0 +1,32 @@
+
+
+.email-wrap{
+    margin-top: 30%;
+    width: 100%;
+}
+
+.login-wrap h2{
+display: flex;
+justify-content: center;
+
+}
+
+.login-wrap{
+    margin-top: 100rem;
+
+box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.login-wrap .login-btn{
+    width: 100%;
+}
+
+.login-wrap .signup-btn-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-wrap .signup-btn-wrapper button{
+    margin-top: -1rem;
+}
